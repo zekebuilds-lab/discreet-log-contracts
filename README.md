@@ -74,6 +74,8 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [DLC Markets](https://dlcmarkets.com/) -  Trustless OTC derivatives trading 
 * [Sovereign Citadel Terminal](https://github.com/hamzajapan/Sovereign-Citadel-Terminal)![stars](https://img.shields.io/github/stars/hamzajapan/Sovereign-Citadel-Terminal?style=social), Bitcoin-native financial OS with non-custodial DLC trading and AI risk agents
 * [BlockOracle BTC](https://github.com/barboss2000/blockoracle-btc)![stars](https://img.shields.io/github/stars/barboss2000/blockoracle-btc?style=social), Decentralized prediction game on Bitcoin L1 using DLCs and Taproot
+- [btc-yield-aggregation-dashboard](https://github.com/DLC-link/btc-yield-aggregation-dashboard)![stars](https://img.shields.io/github/stars/DLC-link/btc-yield-aggregation-dashboard.svg?style=social) - Lightning Network project (0★)
+- [dlctix](https://github.com/tee8z/dlctix)![stars](https://img.shields.io/github/stars/tee8z/dlctix.svg?style=social) - Ticketed Discreet Log Contracts (DLCs) to enable instant buy-in for wager-like contracts on Bitcoin. (20★)
 
 
 ## Oracles
