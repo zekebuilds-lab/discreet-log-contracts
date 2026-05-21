@@ -88,6 +88,7 @@ Discreet log contract is an oracle contract scheme proposed by Tadge in [this wh
 * [tee8z/noaa-oracle](https://github.com/tee8z/noaa-oracle) - NOAA data oracle, queryable from browser and can attest to events for a Bitcoin DLC in dlctix style
 * [Pythia](https://github.com/dlc-markets/pythia)![stars](https://img.shields.io/github/stars/dlc-markets/pythia?style=social), Rust implementation of p2p-derivative-oracle for DLC trading
 * [Mycelia Signal](https://github.com/jonathanbulkeley/Mycelia-Signal-Sovereign-Oracle)![stars](https://img.shields.io/github/stars/jonathanbulkeley/Mycelia-Signal-Sovereign-Oracle?style=social), Sovereign oracle protocol with DLC attestations over Lightning sats and USDC on Base
+* [pow-attest](https://attest.powforge.dev), GitHub event oracle (PR-merged / issue-closed) emitting BIP-340 Schnorr attestations; `/announcement` endpoint exposes R-point + outcome_hash for DLC CET adaptor signing; PoW-gated, no account; oracle pubkey `2bc78390c94d8bbb96ac3e6940462ba2812418d871e701c1a845fdb1dfd4a0e5`
 
 ## Community 
 * [dlc-dev mailing list](https://mailmanlists.org/mailman/listinfo/dlc-dev)
